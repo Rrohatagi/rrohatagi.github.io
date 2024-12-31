@@ -19,6 +19,6 @@ body {
 /* Explicit styling for paragraphs */
 p {
     font-family: 'Times New Roman', serif; /* Ensures Times New Roman is applied */
-    color: blue;
+    color: black;
     text-align: justify;
 }
