@@ -9,19 +9,16 @@ header h1 {
 /* General body styling */
 body {
     font-family: 'Times New Roman', serif;
-    color: blue;
+    color: black;
     line-height: 1.6;
     margin: 0;
     padding: 0;
     background-color: #f9f9f9;
 }
 
-/* Styling for the main content */
-main {
-    font-family: 'Times New Roman', serif;
-    color: blue;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f9f9f9;
+/* Explicit styling for paragraphs */
+p {
+    font-family: 'Times New Roman', serif; /* Ensures Times New Roman is applied */
+    color: black;
+    text-align: justify;
 }
