@@ -11,7 +11,7 @@
     </header>
     <main>
         <p>
-            Hi, I'm [Your Name]. Welcome to my personal website! Here, you'll find information about my journey, projects, and interests.
+            Hi, I'm Ridhi. Welcome to my personal website! Here, you'll find information about my journey, projects, and interests.
         </p>
     </main>
 </body>
