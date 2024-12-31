@@ -1,3 +1,11 @@
+# About Me Website
+
+This repository contains the main page for an "About Me" website. The page is styled to use Playfair Display for the heading font and Times New Roman for the body font.
+
+## Code
+
+```html
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -56,3 +64,4 @@
     </div>
 </body>
 </html>
+```
