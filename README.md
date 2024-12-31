@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>About Me</h1>
+        <h1> About Me </h1>
     </header>
     <main>
         <p>
