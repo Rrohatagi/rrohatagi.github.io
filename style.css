@@ -9,7 +9,7 @@ header h1 {
 /* General body styling */
 body {
     font-family: 'Times New Roman', serif;
-    color: blue;
+    color: black;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -22,4 +22,10 @@ main {
     margin: 0 auto;
     padding: 20px;
     text-align: justify;
+    font-family: 'Times New Roman', serif;
+    color: blue;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
 }
